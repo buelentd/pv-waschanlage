@@ -1,0 +1,41 @@
+{
+  "version": 1,
+  "skills": {
+    "github": {
+      "version": "1.0.0",
+      "installedAt": 1770477424197
+    },
+    "github-pr": {
+      "version": "1.0.0",
+      "installedAt": 1770477425879
+    },
+    "keyword-research": {
+      "version": "1.0.1",
+      "installedAt": 1770627134126
+    },
+    "seo-competitor-analysis": {
+      "version": "1.0.0",
+      "installedAt": 1770627135604
+    },
+    "seo-content-writer": {
+      "version": "0.1.0",
+      "installedAt": 1770627137318
+    },
+    "superdesign": {
+      "version": "1.0.0",
+      "installedAt": 1770627979125
+    },
+    "flux-image": {
+      "version": "0.1.0",
+      "installedAt": 1770627980907
+    },
+    "web-deploy-github": {
+      "version": "1.0.0",
+      "installedAt": 1770627983645
+    },
+    "vercel-deploy-claimable": {
+      "version": "1.0.0",
+      "installedAt": 1770633302078
+    }
+  }
+}
